@@ -1,0 +1,1 @@
+diskpart /s E:\online_disk.txt

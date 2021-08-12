@@ -1,0 +1,1 @@
+diskpart /s E:\offline_disk.txt
